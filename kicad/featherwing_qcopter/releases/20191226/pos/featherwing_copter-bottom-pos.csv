@@ -1,0 +1,17 @@
+Designator,Val,Package,MidX,MidY,Rotation,Layer
+C1,100n,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,133.223,-63.364,270,bottom
+C2,100n,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,171.332,-61.722,180,bottom
+C3,100n,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,133.223,-67.183,270,bottom
+C4,100n,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,167.504,-61.722,180,bottom
+C7,100n,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,171.577,-94.878,90,bottom
+C8,100n,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,132.588,-95.25,0,bottom
+C10,100n,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,171.577,-91.05,90,bottom
+C11,100n,C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,136.407,-95.25,0,bottom
+R1,10k,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,134.248,-70.231,180,bottom
+R2,10k,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,164.338,-62.62,90,bottom
+R5,10k,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,170.57,-88.138,0,bottom
+R6,10k,R_0805_2012Metric_Pad1.15x1.40mm_HandSolder,139.446,-93.971,270,bottom
+U1,DRV8837CDSGR,WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm,137.033,-65.278,270,bottom
+U2,DRV8837CDSGR,WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm,169.379,-65.532,180,bottom
+U3,DRV8837CDSGR,WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm,167.835,-92.925,90,bottom
+U4,DRV8837CDSGR,WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm,134.62,-91.44,0,bottom
