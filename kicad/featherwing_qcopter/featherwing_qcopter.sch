@@ -4,10 +4,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "Featherwing Quadcopter"
+Date "2019-12-30"
+Rev "20191230"
+Comp "Iman"
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -1157,10 +1157,10 @@ Connection ~ 8100 2650
 Wire Wire Line
 	8100 2650 8100 2700
 $Comp
-L power:+3.3V #PWR?
+L power:+3.3V #PWR0101
 U 1 1 5E07E315
 P 6950 1050
-F 0 "#PWR?" H 6950 900 50  0001 C CNN
+F 0 "#PWR0101" H 6950 900 50  0001 C CNN
 F 1 "+3.3V" H 6965 1223 50  0000 C CNN
 F 2 "" H 6950 1050 50  0001 C CNN
 F 3 "" H 6950 1050 50  0001 C CNN
